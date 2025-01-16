@@ -19,7 +19,7 @@ Place the following file in a folder named after the camera, for example, `C:\Us
 ### Step 2: Required Script Configuration in `__init__.py`
 
 https://smarthomepursuits.com/how-to-setup-a-telegram-bot/
-1. `TELEGRAM_API_KEY`
+1. `TELEGRAM_BOT_TOKEN`
 2. `CHAT_ID`
 
 ----
